@@ -1,0 +1,174 @@
+
+#container{
+width:1150px;
+height:1080px;
+margin:0 auto;
+background-color:white;
+
+}
+#banner{
+	
+width:1150px;
+height:900px;
+float:left;
+
+
+
+}
+#üstbanner{
+	 float:left;
+	width:1150px;
+	height:123px;
+    background-color:#333333;
+   
+    
+	
+}
+
+#logo{
+    float:left;
+	width:420px;
+	height:220px;
+
+    margin-left:-80px;
+	margin-top:-72px;
+   
+	
+	
+	
+	
+}
+
+
+
+#bannerinfo{
+	float:left; 
+	width:850px;
+	height:30px;
+
+	
+	
+    margin-left:-110px;
+	margin-top:55px;
+    
+	
+	
+}
+.yazi{
+	font-size:150%;
+    margin-left:30px;
+    color:white;
+	
+	
+	
+	
+}
+#sondakika{
+	float:left;
+	height:30px;
+	width:1150px;
+	background-color:#f8cc1c;
+	margin-top:-25px;	
+
+}
+
+.sondk{
+	float:left;
+	font-size:150%;
+	color:red;
+	margin-left:30px;
+	
+	
+	
+	
+}
+
+
+#yanbanner{
+	
+
+	float:left;
+		
+	width:180px;
+	height:900px;
+	background-color:#333333;
+    margin-top:30px;
+	margin-left:13px;
+	text-align: center;
+  
+}
+.yanyazi{
+	
+
+
+	
+	
+}
+#altbanner{
+		float:left;
+        margin-left:180px;
+		padding-left:25px;
+	
+	
+	
+}
+.haberler{
+	
+	width:312px;
+	height:250px;
+	
+	
+}	
+#ustcizgi{
+	
+	width:785px;
+	height:1.5px;
+	background-color:#f8cc1c;
+	float:left;
+	margin-left:30px;
+	margin-top:5px;
+	
+	
+	
+}
+li{
+	
+	
+	font-size:25px;
+	line-height:60px;
+	list-style-type:none;
+	margin-right:50px;
+	
+	color:#f8cc1c;
+	
+	
+}
+#search{
+	
+	width:40px;
+	height:40px;
+	float:left;
+	margin-top:40px;
+	
+	
+	
+	
+}
+#enaltbanner{
+	
+	float:left;
+	margin-left:204px;
+	
+	
+	
+	
+	
+}
+.khaberler{
+	width:233px;
+	height:200px;
+	
+	
+	
+	
+}
